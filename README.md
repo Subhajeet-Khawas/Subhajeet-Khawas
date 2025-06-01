@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm an **MBA in Business Analytics** graduate from
 ---
 
 ### 📫 Connect with Me:
-- Email: 23mb0063@iitism.ac.in  
+- Email: subhkhawas044@gmail.com 
 - LinkedIn: [Subhajeet Khawas](http://www.linkedin.com/in/subh-khawas)  
 - GitHub: [Subhajeet-Khawas](https://github.com/Subhajeet-Khawas)  
 
